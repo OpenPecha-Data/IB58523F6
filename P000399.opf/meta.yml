@@ -1,15 +1,16 @@
-id: opecha:P000399
+id: P000399
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W20129
   title: རྟ་ནག་སྒྲོག་འགྲོས།
-  volume:
+  author: ''
+  volumes:
     7ad258322d1548f39d7b40965d89ada8:
       image_group_id: I1KG14902
       title: Volume 1 of rta nag sgrog 'gros
       volume_number: 1
       total_pages: 562
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྟ་ནག་སྒྲོག་འགྲོས།
   author: ''
